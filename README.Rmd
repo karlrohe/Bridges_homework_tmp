@@ -1,0 +1,10 @@
+---
+title: "bridges_homework"
+output: github_document
+---
+
+hello world
+
+```{r}
+rnorm(1)
+```
